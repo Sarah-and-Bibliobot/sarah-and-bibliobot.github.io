@@ -26,6 +26,7 @@ twitter_username: username
 github_username: isioviel
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+enable_copy_code_button: true
 
 # Build settings
 markdown: kramdown
