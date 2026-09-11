@@ -15,7 +15,7 @@ I dug around through my boxes of craft supplies and electronics to give Bibliobo
 
 I was not organised enough to have all the parts I needed for my 'normal' micro:bit robot build - which went through many improvements over the years at my previous job - without taking things apart, so I made do with a selection of spare components instead just to get the ball rolling.
 
-![Decorative image of Bibliobot, with components described below](../assets/images/2026-09-11_BibliobotV1.jpg)
+![Decorative image of Bibliobot, with components described below](/assets/images/2026-09-11_BibliobotV1.jpg)
 
 <!--more-->
 ## Components List
