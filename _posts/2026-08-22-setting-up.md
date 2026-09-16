@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - micro:bit
-  - plans
+  - planning
 ---
 
 Welcome to **Sarah and Bibliobot** 👋
