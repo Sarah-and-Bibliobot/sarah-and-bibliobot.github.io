@@ -6,6 +6,8 @@ categories:
 tags:
   - study-skills
   - planning
+header:
+  image: /assets/images/2026-09-16_StudySkillsBooks.jpg
 ---
 
 It has been a lot of years since I last formally studied, or had to write reports and assignments. I have written evaluation reports, grant applications and many many student worksheets and lesson plans, but my style is very much non-academic!
