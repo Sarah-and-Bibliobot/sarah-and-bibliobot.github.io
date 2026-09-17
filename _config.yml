@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/isioviel"
     - label: "Printables"
-      icon: "fab fa-fw fa-link"
+      icon: "fa fa-fw fa-cube"
       url: "https://www.printables.com/@isioviel"
 
 footer:
