@@ -26,7 +26,7 @@ I have two study days and am intending to stick with a schedule, one module a da
 Thursday was exhausting (probably not helped by Wednesday night's pub quiz, meaning a late night and a couple of beers!) as this module is a **lot** of reading - I have module notes to read, and lots of recommended papers for additional information. The content in the first week was interesting, and all made sense: it is about how individuals search for information, and how their personalities and contexts will have an effect on their information seeking behaviour. However, my eyes and brain were very tired after a full day of taking in information, even with some breaks to post about the suggested discussion topics in the forum.
 
 Friday, in contrast, was exhilarating: it turns out that I love knowledge organisation! We started with an overview of the goals of knowledge organisation:
-> "To organise knowledge is to gather what we know into a comprehensive structure to show its parts and their relationships." (Vickery, 2008)
+> "To organise knowledge is to gather together what we know into a comprehensive organised structure, to show its parts and their relationships." [(Vickery, 2008)](https://web.archive.org/web/20100125050134/http://www.lucis.me.uk/knowlorg.htm#start)
 
 We will be covering indexing and classification, and working on a scenario based assignment throughout the term; this suits my learning style as I enjoy putting things into practice. I was less tired by the end of the day, and had to stop myself from working on the domain analysis for my proposed scenario as it was time for dinner.
 
