@@ -21,7 +21,7 @@ I am taking two modules this term, _Information Seeking and Use_ (ISU), and _Kno
 
 <!--more-->
 
-I have two study days and am intending to stick with a schedule, one module a day, to get into a good routine. This week, I spent Thursday working on ISU and Friday on KO. There are also live sessions each week for both modules, on Tuesdays (ISU) and Thursdays (KO), so I am treating those as my introduction each week before digging into the main work on my scheduled days.
+I have two study days and am intending to stick with a schedule, one module a day, to get into a good routine. This week, I spent Thursday working on ISU and Friday on KO. There are also live sessions each week for both modules, on Tuesdays (ISU) and Thursdays (KO), so I am treating those as my introduction each week before digging into the main work on my scheduled days. If I am not able to attend the live sessions, I will watch the recording first thing in the morning on my assigned day.
 
 Thursday was exhausting (probably not helped by Wednesday night's pub quiz, meaning a late night and a couple of beers!) as this module is a **lot** of reading - I have module notes to read, and lots of recommended papers for additional information. The content in the first week was interesting, and all made sense: it is about how individuals search for information, and how their personalities and contexts will have an effect on their information seeking behaviour. However, my eyes and brain were very tired after a full day of taking in information, even with some breaks to post about the suggested discussion topics in the forum.
 
